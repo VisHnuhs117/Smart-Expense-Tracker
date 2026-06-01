@@ -1,0 +1,6 @@
+{
+  "name": "Smart Expense Tracker",
+  "description": "An AI-powered offline-first smart expense tracker with receipt OCR scanning, budget limits, analytics and custom currency settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
